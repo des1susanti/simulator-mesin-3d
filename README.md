@@ -1,10 +1,7 @@
 # Simulator Mesin 3D – Mobil Sport
 
-**EN:** A sports car made of glowing points that you rotate and take apart (exploded view)
+A sports car made of glowing points that you rotate and take apart (exploded view)
 with hand gestures through your webcam. Built with Python, OpenCV and MediaPipe.
-
-**ID:** Mobil sport dari titik-titik cahaya yang bisa diputar dan dibongkar
-(*exploded view*) dengan gerakan tangan lewat webcam. Dibuat dengan Python, OpenCV, dan MediaPipe.
 
 ## Gerakan tangan
 
@@ -42,13 +39,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python simulator_mesin.py
 ```
-
-Kalau `hand_landmarker.task` belum ada, program mencoba mengunduhnya sendiri,
-atau salin dari folder proyek mitologi.
-
-Pilihan lain:
-- `python simulator_mesin.py --jendela` : jendela biasa, bukan layar penuh
-- `python simulator_mesin.py --demo` : tanpa kamera, mobil membongkar-merakit sendiri
 
 ## Tombol
 
