@@ -1,5 +1,7 @@
 # Simulator Mesin 3D – Mobil Sport
+![Mobil sport terakit](mobil_rakit.png)
 
+![Mobil sport terbongkar](mobil_bongkar.png)
 A sports car made of glowing points that you rotate and take apart (exploded view)
 with hand gestures through your webcam. Built with Python, OpenCV and MediaPipe.
 
